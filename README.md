@@ -6,7 +6,7 @@
   <a href="https://whis101.github.io/projects.html" style="margin: 0 15px;">🧠 Projects</a>
 </p>
 
-## ABOUT ME
+# ABOUT ME
 
 <p style="font-size: 30px;">
   <img src="DaveBrownPicture.jpg" alt="Dave Brown" style="float: right; margin-left: 20px; width: 300px; border-radius: 8px;" />

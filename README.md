@@ -1,4 +1,9 @@
 # Dave Brown
+<p align="center" style="font-size: 18px;">
+  <a href="https://whis101.github.io/contacts.html" style="margin: 0 15px;">Contacts</a>
+  <a href="https://whis101.github.io/internships.html" style="margin: 0 15px;">Internships</a>
+  <a href="https://whis101.github.io/projects.html" style="margin: 0 15px;">Projects</a>
+</p>
 
 ## ABOUT ME
 
